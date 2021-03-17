@@ -2,4 +2,4 @@
 
 Made with HTML % CSS
 
-Live Preview : https/papatony.netlify.app
+Live Preview : https://papatony.netlify.app/
